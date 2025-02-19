@@ -6,6 +6,7 @@
 -   Docker your app and everything it needs (tools, settings, libraries) are packed inside a container—like putting all your food in a lunchbox.
 
  **Why use Docker?**
+ 
 ✅ Consistency Across Environments → Eliminates the "works on my machine" issue.
 
 ✅ Lightweight & Fast → Uses fewer resources compared to VMs.
