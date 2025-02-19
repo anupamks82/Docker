@@ -7,7 +7,12 @@
 
  **Why use Docker?**
 ✅ Consistency Across Environments → Eliminates the "works on my machine" issue.
+
 ✅ Lightweight & Fast → Uses fewer resources compared to VMs.
+
 ✅ Easy Deployment & Scaling → Run multiple containers seamlessly.
+
 ✅ Microservices Ready → Perfect for breaking applications into independent services.
+
 ✅ Works with Kubernetes → Supports container orchestration for large-scale applications.
+
